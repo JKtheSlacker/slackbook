@@ -24,7 +24,7 @@ a look at the various README files inside the
 <filename>usb-and-pxe-installers</filename> directory at your favorite
 Slackware mirror. This directory includes the necessary files and
 instructions for booting the Slackware installer from a USB flash drive
-or from a network card that support PXE. The files there are the best
+or from a network card that supports PXE. The files there are the best
 source of information available for such boot methods.
 </para>
 
@@ -136,7 +136,7 @@ those topics are outside of the scope of this book. I encourage you to
 refer to the excellent <filename>README_RAID.TXT</filename>,
 <filename>README_LVM.TXT</filename>, and
 <filename>README_CRYPT.TXT</filename> files on your CD if you desire to
-setup your system with these advanced tools. Most users won't have any
+set up your system with these advanced tools. Most users won't have any
 need to do so and should proceed directly to partitioning.
 </para>
 
